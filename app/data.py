@@ -1,0 +1,9 @@
+TITLE = "  Отчёт   за март  "
+NAME = "Пётр Иванович Смирнов"
+SCORES = [5, 4, 5, 3, 5, 4]
+MARKS = ["зачёт", "незачёт", "зачёт", "зачёт"]
+EMAILS = ["student@college.ru", "не почта"]
+PHONES = ["8 (900) 123-45-67", "123"]
+PASSWORDS = ["Qwerty12345", "qwerty"]
+FIRST_DAY = "02.03.2026"
+LAST_DAY = "31.03.2026"
